@@ -18,17 +18,17 @@ const PACOTES = {
   semanal: {
     nome: 'VIP Semanal',
     preco: 'R$34,90 / semana',
-    link: 'https://seu-link-de-checkout.com/semanal' // 👈 COLOQUE SEU LINK AQUI
+    link: 'https://whop.com/checkout/plan_TbOzc9NaBjJZJ' // 👈 COLOQUE SEU LINK AQUI
   },
   mensal: {
     nome: 'VIP Mensal',
     preco: 'R$97,00 / mês',
-    link: 'https://seu-link-de-checkout.com/mensal' // 👈 COLOQUE SEU LINK AQUI
+    link: 'https://whop.com/checkout/plan_Gphp0LZML7qph' // 👈 COLOQUE SEU LINK AQUI
   },
   trimestral: {
     nome: 'VIP Trimestral (3 Meses)',
     preco: 'R$247,00 / 3 meses',
-    link: 'https://seu-link-de-checkout.com/trimestral' // 👈 COLOQUE SEU LINK AQUI
+    link: 'https://whop.com/checkout/plan_zZx8KgPMb3ZDW' // 👈 COLOQUE SEU LINK AQUI
   }
 };
 
