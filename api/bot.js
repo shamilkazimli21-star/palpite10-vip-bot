@@ -1076,11 +1076,8 @@ Se você quer continuar acompanhando nossas análises diariamente:
 // ============================================================
 
 const SOCIAL_PROOF = {
-
   pessoas: 348,
-
   taxa: "85%"
-
 };
 
 
