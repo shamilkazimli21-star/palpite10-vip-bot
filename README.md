@@ -1,0 +1,1 @@
+# palpite10-vip-bot
