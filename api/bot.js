@@ -1077,9 +1077,9 @@ Se você quer continuar acompanhando nossas análises diariamente:
 
 const SOCIAL_PROOF = {
 
-  pessoas: null,
+  pessoas: 348,
 
-  taxa: null
+  taxa: 85%
 
 };
 
