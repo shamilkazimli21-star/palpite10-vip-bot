@@ -1079,7 +1079,7 @@ const SOCIAL_PROOF = {
 
   pessoas: 348,
 
-  taxa: 85%
+  taxa: "85%"
 
 };
 
