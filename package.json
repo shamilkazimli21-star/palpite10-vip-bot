@@ -1,0 +1,15 @@
+{
+    "name": "palpite10-vip-bot",
+    "version": "1.0.0",
+    "description": "Bot oficial PALPITE10 VIP - Palpites de futebol profissional",
+    "main": "api/bot.js",
+    "scripts": {
+        "start": "node api/bot.js"
+    },
+    "dependencies": {
+        "telegraf": "^4.15.3"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}
